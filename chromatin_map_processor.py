@@ -1,9 +1,7 @@
 from hicmatrix import HiCMatrix as hm
 import pandas as pd
-import numpy as np
 import math
 import scipy.stats as stats
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 def df_builder(file_path):
